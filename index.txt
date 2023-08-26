@@ -1,24 +1,26 @@
-vCard - Personal Portfolio
+Zeel Sheladiya - Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Zeel Sheladiya
+Zeel Sheladiya
+Software Developer
+AI Engineer
+Data Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+zeelsheladiya52@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (437) 981-2088
 
 Birthday
-June 23, 1982
+Feb 29, 2000
 
 Location
-Sacramento, California, USA
+Toronto, Ontario, Canada
 
 # navbar
 
