@@ -300,7 +300,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 140px;
+  max-height: 150px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -1842,9 +1842,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   .info-content .title_badge {
     display: inline-block; 
     position:absolute; 
+    
   }
 
-  .info-content .title { margin: auto; }
+  .info-content .title {
+    margin: auto; 
+    margin-bottom: 5px;;
+  }
 
   .info_more-btn { display: none; }
 
