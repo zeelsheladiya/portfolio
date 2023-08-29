@@ -305,7 +305,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 440px; }
+.sidebar.active { max-height: 450px; }
 
 .sidebar-info {
   position: relative;
@@ -1676,7 +1676,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
 
-
   /**
    * MAIN 
    */
@@ -1832,6 +1831,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
+  .sidebar.active { max-height: 100%; }
+
   .avatar-box img { width: 150px; }
 
   .info-content .name {
@@ -1847,7 +1848,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .info-content .title {
     margin: auto; 
-    margin-bottom: 5px;;
+    margin-bottom: 5px;
   }
 
   .info_more-btn { display: none; }
