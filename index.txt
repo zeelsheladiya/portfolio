@@ -46,21 +46,21 @@ I am always eager to explore new tools and techniques that can enhance my abilit
 
 What i'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = Software icon
+Software Engineering
+Crafting robust and efficient software solutions with a keen eye for detail and performance optimization.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = Full Stack Development icon
+Full Stack Development
+Proficient in both front-end and back-end technologies, creating seamless and user-centric web applications.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = AI icon
+Advanced AI Solutions
+Designing and implementing cutting-edge artificial intelligence solutions that encompass machine learning, natural language processing, and computer vision.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = Data Visualization icon
+Data Visualization
+Creating compelling visual representations of data to communicate findings effectively and facilitate data-driven discussions and decision.
 
 
 ## testimonials
