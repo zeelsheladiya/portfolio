@@ -110,17 +110,33 @@ Bachelor of Science in Information Technology
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Programming Tutor
+Oct. 2022 – Jun. 2023
+● Provided personalized programming tutoring services to students, guiding them in various programming languages, such as Python, Java, and C++, and helping them build a strong foundation in coding concepts and problem-solving skills.
+● Developed tailored learning plans and instructional materials, ensuring a student-centered approach to meet individual learning objectives and maximize student engagement and comprehension.
+● Utilized effective teaching methodologies, including interactive coding exercises, hands-on projects, and real-world examples, fostering a dynamic and supportive learning environment to empower students in their programming journey.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Jr. Python Developer
+May. 2021 – Mar. 2022
+● Contributed continuously to existing products through R&D like Dynamic Crystal reports generation (60% time saved), Optimization of the stored procedure, and many more that makes efficient products.
+● Used Python to create a crawl job on a Linux server that makes some tasks automated.
+● Efficiently involved in maintaining software development life cycle to meet expectations.
+● Demonstrated the implementation of the project using the SDLC approach with agile scrum methodology with Jira, Figma, and documentation.
+● Improved the robustness of the projects through debugging and fixing bugs.
+● Optimized the code by using appropriate data structures and design patterns for better code reusability.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Jr.Data Scientist
+Mar. 2021 – May. 2021
+● Trained models based on regression algorithms using sensor data to identify patterns indicative of maintenance needs.
+● Provided analysis with ML models using R, python, for critical decision-making to leaders, along with accurate documentation.
+
+Data Analyst
+Feb. 2020 – Apr. 2021
+● Collaborated with various departments such as manufacturing, sales, and marketing to implement robust data collection methods.
+● Integrated data from multiple sources using SQL, which involved merging datasets from sales and marketing for unified analysis.
+● Identified low sales problem of “Automobile- Suspensions” in some parts of India based on environmental factors.
+● Created comprehensive reports and dashboards to determine KPIs, using tools like PowerBI, Seaborn, Matplotlib, and Excel.
+● Resulted in the Optimization of inventory levels, 20% reduction in carrying costs while maintaining optimal stock levels.
 
 My skills
 
