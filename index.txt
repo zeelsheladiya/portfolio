@@ -58,7 +58,7 @@ alt = AI icon
 Advanced AI Solutions
 Designing and implementing cutting-edge artificial intelligence solutions that encompass machine learning, natural language processing, and computer vision.
 
-alt = Data Visualization icon
+alt = Data Viz icon
 Data Visualization
 Creating compelling visual representations of data to communicate findings effectively and facilitate data-driven discussions and decision.
 
@@ -67,21 +67,21 @@ Creating compelling visual representations of data to communicate findings effec
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Arshit Patel
+Arshit Patel
+Working with Zeel at Micronstars was a game-changer for our team. His dedication to optimizing our products and implementing efficient solutions was truly commendable. The time-saving innovations they brought to our Dynamic Crystal reports generation made a significant impact. His ability to debug and improve code using the right data structures and design patterns is unmatched. We highly value his contributions and look forward to continued collaboration.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = John Thornfield
+John Thornfield
+Zeel took our initial concept and turned it into a polished software application. His expertise in Python and automation simplified complex tasks, saving us valuable time and resources. The efficiency they brought to our project was exceptional.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Dhruv Sojitra
+Dhruv Sojitra
+As a Junior Data Scientist, Zeel exhibited a remarkable knack for machine learning and data analysis. He played a crucial role in training regression models to predict maintenance needs based on sensor data. His expertise in R and Python, combined with his meticulous documentation, empowered our decision-making process. Zeel is a valuable asset to any data-driven team.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Oliver Anderson
+Oliver Anderson
+Zeel's role as a Data Analyst at our company was transformative. His ability to collaborate across departments and integrate data from multiple sources using SQL was invaluable. His insights into identifying sales issues based on environmental factors led to substantial improvements in our operations. The reports and dashboards they created using PowerBI, Seaborn, Matplotlib, and Excel were not only comprehensive but also actionable. We credit Zeel for a 20% reduction in carrying costs while maintaining optimal inventory levels.
 
 
 ## clients
