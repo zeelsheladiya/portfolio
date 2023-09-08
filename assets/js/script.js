@@ -25,12 +25,33 @@ const overlay = document.querySelector("[data-overlay]");
 // modal variable
 const modalImg = document.querySelector("[data-modal-img]");
 const modalTitle = document.querySelector("[data-modal-title]");
+const modalDate = document.querySelector("[data-modal-date]");
 const modalText = document.querySelector("[data-modal-text]");
 
 // modal toggle function
 const testimonialsModalFunc = function () {
+  
   modalContainer.classList.toggle("active");
   overlay.classList.toggle("active");
+  
+  if (overlay.classList.value == "overlay active"){
+  let modalTitleName = document.querySelector("[data-modal-title]").innerHTML;
+    
+    if (modalTitleName == "Arshit Patel"){
+      modalDate.innerHTML = "12 Mar. 2022";
+    } 
+    else if (modalTitleName == "John Thornfield"){
+      modalDate.innerHTML = "4 Jan. 2023";
+    } 
+    else if (modalTitleName == "Dhruv Sojitra"){
+      modalDate.innerHTML = "17 May. 2021";
+    } 
+    else if (modalTitleName == "Oliver Anderson"){
+      modalDate.innerHTML = "21 Jun. 2020";
+    }
+    
+  }
+
 }
 
 // add click event to all modal items
