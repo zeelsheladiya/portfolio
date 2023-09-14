@@ -134,7 +134,7 @@
 }
 
 .skill-tag:hover::before {
-  scale: 3;
+  scale: 5;
 }
 
 .skill-tag:hover {
