@@ -95,8 +95,57 @@
 
 }
 
+/*-----------------------------------*\
+  #Experience tags
+\*-----------------------------------*/
 
+.skill-tag-flex-container{
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.skill-tag {
+  cursor: pointer;
+  position: relative;
+  padding: 8px 12px;
+  margin: 5px;
+  font-size: 14px;
+  color: rgb(193, 163, 98);
+  border: 2px solid rgb(193, 163, 98);
+  border-radius: 30px;
+  background-color: transparent;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+  overflow: hidden;
+}
+
+.skill-tag::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  border-radius: inherit;
+  scale: 0;
+  z-index: -1;
+  background-color: rgb(193, 163, 98);
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.skill-tag:hover::before {
+  scale: 3;
+}
+
+.skill-tag:hover {
+  color: #212121;
+  scale: 1.1;
+  box-shadow: 0 0px 20px rgba(193, 163, 98,0.4);
+}
+
+.skill-tag:active {
+  scale: 1;
+}
 
 
 /*-----------------------------------*\
